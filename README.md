@@ -1,1 +1,1 @@
- https://streetsports.github.io/isaque/
+https://streetsports.github.io/isaque/
